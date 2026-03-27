@@ -5,6 +5,9 @@
 **a. Initial design**
 
 - Briefly describe your initial UML design.
+    - The owner should be able to add their pet's information and their preferences into the system.
+    - The owner should be able to schedule daily and important tasks for their pet.
+    - The owner should be able to view their daily plan and see the reasoning behind it. 
 - What classes did you include, and what responsibilities did you assign to each?
 
 **b. Design changes**
